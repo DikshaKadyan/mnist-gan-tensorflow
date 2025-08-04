@@ -37,7 +37,7 @@ This project demonstrates how to generate **handwritten digits** from the **MNIS
 
 ## ▶️ How to Run
 1. Open the notebook in **Google Colab**:  
-   [Click Here to Open in Colab](https://colab.research.google.com/drive/1j7Q3ruDDSyooSyE3ZI0Z4LKZg7qVFaJs?usp=sharing)  
+   [Click Here to Open in Colab]([https://colab.research.google.com/drive/1j7Q3ruDDSyooSyE3ZI0Z4LKZg7qVFaJs?usp=sharing](https://colab.research.google.com/drive/1W8JM8EARuu8ADrWVVNYOe0d8_E9zKl9t?usp=sharing))  
 
 2. Run cells step by step:
    - Load MNIST dataset  
